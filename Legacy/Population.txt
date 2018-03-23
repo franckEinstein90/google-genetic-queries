@@ -1,0 +1,647 @@
+tlkqj  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+founb  WN: 1  AVG: 5  HC: 83  Patt: 12345  DF: 5  
+nkwtc  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+asfmw  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+amrboy  WN: 1  AVG: 6  HC: 6  Patt: 123456  DF: 6  
+objpmc  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+krpig  WN: 1  AVG: 5  HC: 11  Patt: 12345  DF: 5  
+xbyqt  WN: 1  AVG: 5  HC: 6  Patt: 12345  DF: 5  
+ewxytu  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+dmwro  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+vwehr  WN: 1  AVG: 5  HC: 23  Patt: 12345  DF: 5  
+rnumi  WN: 1  AVG: 5  HC: 11  Patt: 12345  DF: 5  
+iuhcu  WN: 1  AVG: 5  HC: 5  Patt: 12342  DF: 4  
+iyybd  WN: 1  AVG: 5  HC: 9  Patt: 12234  DF: 4  
+ebogu  WN: 1  AVG: 5  HC: 516  Patt: 12345  DF: 5  
+xnhvm  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+hhqwf  WN: 1  AVG: 5  HC: 2  Patt: 11234  DF: 4  
+arefs  WN: 1  AVG: 5  HC: 730  Patt: 12345  DF: 5  
+brlqhn  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+takyue  WN: 1  AVG: 6  HC: 8  Patt: 123456  DF: 6  
+tfbaee  WN: 1  AVG: 6  HC: 1  Patt: 123455  DF: 5  
+ehtki  WN: 1  AVG: 5  HC: 6  Patt: 12345  DF: 5  
+tqbki  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+bfywk  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+momdel  WN: 1  AVG: 6  HC: 58  Patt: 121345  DF: 5  
+duvif  WN: 1  AVG: 5  HC: 38  Patt: 12345  DF: 5  
+brsgw  WN: 1  AVG: 5  HC: 10  Patt: 12345  DF: 5  
+qpoii  WN: 1  AVG: 5  HC: 14  Patt: 12344  DF: 4  
+xedex  WN: 1  AVG: 5  HC: 631  Patt: 12321  DF: 3  
+vkyof  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+sdxld  WN: 1  AVG: 5  HC: 8  Patt: 12342  DF: 4  
+vshwq  WN: 1  AVG: 5  HC: 9  Patt: 12345  DF: 5  
+xlmkc  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+ehwuh  WN: 1  AVG: 5  HC: 44  Patt: 12342  DF: 4  
+kiosoi  WN: 1  AVG: 6  HC: 1  Patt: 123432  DF: 4  
+nqmmr  WN: 1  AVG: 5  HC: 10  Patt: 12334  DF: 4  
+lrxkm  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+ecdcb  WN: 1  AVG: 5  HC: 145  Patt: 12324  DF: 4  
+lxjrp  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+qgqmv  WN: 1  AVG: 5  HC: 9  Patt: 12134  DF: 4  
+qjrye  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+ijukj  WN: 1  AVG: 5  HC: 10  Patt: 12342  DF: 4  
+uykprg  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+hcbst  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+epfdop  WN: 1  AVG: 6  HC: 1  Patt: 123452  DF: 5  
+estlv  WN: 1  AVG: 5  HC: 23  Patt: 12345  DF: 5  
+ebtey  WN: 1  AVG: 5  HC: 12  Patt: 12314  DF: 4  
+epqjv  WN: 1  AVG: 5  HC: 16  Patt: 12345  DF: 5  
+lyymm  WN: 1  AVG: 5  HC: 8  Patt: 12233  DF: 3  
+evtwd  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+mnapp  WN: 1  AVG: 5  HC: 73  Patt: 12344  DF: 4  
+prjhdr  WN: 1  AVG: 6  HC: 14  Patt: 123452  DF: 5  
+htmbj  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+lpbht  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+bdtjm  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+ahtft  WN: 1  AVG: 5  HC: 4  Patt: 12343  DF: 4  
+driuas  WN: 1  AVG: 6  HC: 2  Patt: 123456  DF: 6  
+bleyi  WN: 1  AVG: 5  HC: 108  Patt: 12345  DF: 5  
+ocatd  WN: 1  AVG: 5  HC: 154  Patt: 12345  DF: 5  
+afbpu  WN: 1  AVG: 5  HC: 22  Patt: 12345  DF: 5  
+eereks  WN: 1  AVG: 6  HC: 1  Patt: 112134  DF: 4  
+xbtqt  WN: 1  AVG: 5  HC: 3  Patt: 12343  DF: 4  
+ r ig  WN: 3  AVG: 1  HC: 878000  Patt: 123  DF: 3  
+nq ig  WN: 2  AVG: 2  HC: 44300  Patt: 1234  DF: 4  
+ u      i  uvi    if  WN: 5  AVG: 1.4  HC: 3630  Patt: 1213224  DF: 4  
+tl q tlkqo  WN: 3  AVG: 2.66666666666667  HC: 2  Patt: 12312435  DF: 5  
+  tp  ftp   tp  ftpu  WN: 5  AVG: 2.2  HC: 30  Patt: 12312123124  DF: 4  
+m u  m  m    m m umi  WN: 7  AVG: 1.28571428571429  HC: 2430  Patt: 121111213  DF: 3  
+tl prtl qo  WN: 3  AVG: 2.66666666666667  HC: 25  Patt: 12341256  DF: 6  
+esrew  WN: 1  AVG: 5  HC: 16  Patt: 12314  DF: 4  
+ee is r ig  WN: 4  AVG: 1.75  HC: 121000  Patt: 1123425  DF: 5  
+ rj    t    tp    p  r    ftp   tp   tpu  WN: 9  AVG: 1.66666666666667  HC: 275  Patt: 123344153434346  DF: 6  
+ h u  h uh  WN: 5  AVG: 1  HC: 89000  Patt: 12121  DF: 2  
+ u cu  WN: 3  AVG: 1  HC: 1350000  Patt: 121  DF: 2  
+ riboy  WN: 2  AVG: 2.5  HC: 259  Patt: 12345  DF: 5  
+mc  el  WN: 2  AVG: 2  HC: 2080000  Patt: 1234  DF: 4  
+ar f aref ar foa ef ar f aref ar foarefs  WN: 11  AVG: 2.72727272727273  HC: 10  Patt: 123124312351431231243123512436  DF: 6  
+eer   e gu  WN: 3  AVG: 2  HC: 3650  Patt: 112134  DF: 4  
+e  e   ebeks  WN: 3  AVG: 2.33333333333333  HC: 6  Patt: 1112134  DF: 4  
+e       wf  WN: 2  AVG: 1.5  HC: 597000  Patt: 123  DF: 3  
+  xl    ld  WN: 3  AVG: 1.33333333333333  HC: 74100  Patt: 1223  DF: 3  
+m at m atp  WN: 4  AVG: 1.75  HC: 594000  Patt: 1231234  DF: 4  
+tak ue  WN: 2  AVG: 2.5  HC: 137000  Patt: 12345  DF: 5  
+eireks  WN: 1  AVG: 6  HC: 53  Patt: 123145  DF: 5  
+nq ig  WN: 2  AVG: 2  HC: 44300  Patt: 1234  DF: 4  
+tjukj  WN: 1  AVG: 5  HC: 6  Patt: 12342  DF: 4  
+h bst  WN: 2  AVG: 2  HC: 150000  Patt: 1234  DF: 4  
+momdel  WN: 1  AVG: 6  HC: 57  Patt: 121345  DF: 5  
+trsgw  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+kiosoi  WN: 1  AVG: 6  HC: 1  Patt: 123432  DF: 4  
+bleyi  WN: 1  AVG: 5  HC: 104  Patt: 12345  DF: 5  
+as cwas cwas cwas cu  WN: 5  AVG: 3.2  HC: 290  Patt: 1234123412341235  DF: 5  
+hcbst  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+fiunb  WN: 1  AVG: 5  HC: 14  Patt: 12345  DF: 5  
+ oufb  WN: 2  AVG: 2  HC: 235  Patt: 1234  DF: 4  
+ebtey  WN: 1  AVG: 5  HC: 11  Patt: 12314  DF: 4  
+ijukj  WN: 1  AVG: 5  HC: 10  Patt: 12342  DF: 4  
+xlmkc  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+e tlv  WN: 2  AVG: 2  HC: 95700  Patt: 1234  DF: 4  
+mcd  m  m    m m um mcd  m  m    m m umi  WN: 12  AVG: 1.58333333333333  HC: 206  Patt: 1231111411231111415  DF: 5  
+xlmkc  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+ef uh  WN: 2  AVG: 2  HC: 79500  Patt: 1234  DF: 4  
+ee is r ig  WN: 4  AVG: 1.75  HC: 121000  Patt: 1123425  DF: 5  
+m u  m  m    m m umi  WN: 7  AVG: 1.28571428571429  HC: 2430  Patt: 121111213  DF: 3  
+ahtft  WN: 1  AVG: 5  HC: 3  Patt: 12343  DF: 4  
+objpmc  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+ u      i  uvi    if  WN: 5  AVG: 1.4  HC: 3630  Patt: 1213224  DF: 4  
+eir ks  WN: 2  AVG: 2.5  HC: 5970  Patt: 12345  DF: 5  
+hcbst  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+tl q tlkqo  WN: 3  AVG: 2.66666666666667  HC: 2  Patt: 12312435  DF: 5  
+eireks  WN: 1  AVG: 6  HC: 53  Patt: 123145  DF: 5  
+hcbst  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+afbpu  WN: 1  AVG: 5  HC: 22  Patt: 12345  DF: 5  
+qjryd  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+ebogu  WN: 1  AVG: 5  HC: 517  Patt: 12345  DF: 5  
+mo  el  WN: 2  AVG: 2  HC: 2270000  Patt: 1234  DF: 4  
+ljjrp  WN: 1  AVG: 5  HC: 6  Patt: 12234  DF: 4  
+tf aee  WN: 2  AVG: 2.5  HC: 3770  Patt: 12344  DF: 4  
+arbpu  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+esrew  WN: 1  AVG: 5  HC: 16  Patt: 12314  DF: 4  
+xbyqt  WN: 1  AVG: 5  HC: 7  Patt: 12345  DF: 5  
+xbtqt  WN: 1  AVG: 5  HC: 2  Patt: 12343  DF: 4  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+esrew  WN: 1  AVG: 5  HC: 16  Patt: 12314  DF: 4  
+albpu  WN: 1  AVG: 5  HC: 19  Patt: 12345  DF: 5  
+e tlv  WN: 2  AVG: 2  HC: 98500  Patt: 1234  DF: 4  
+ oufb oufc  WN: 3  AVG: 2.66666666666667  HC: 7  Patt: 12341235  DF: 5  
+m wt m  m    m m umcm w  m  m    m m umi  WN: 13  AVG: 1.46153846153846  HC: 3  Patt: 1231111415121111416  DF: 6  
+ekyof  WN: 1  AVG: 5  HC: 9  Patt: 12345  DF: 5  
+mo  elmo  el  WN: 3  AVG: 2.66666666666667  HC: 20100  Patt: 12341234  DF: 4  
+x  et  WN: 2  AVG: 1.5  HC: 9870000  Patt: 123  DF: 3  
+e tlv  WN: 2  AVG: 2  HC: 98500  Patt: 1234  DF: 4  
+brsgw  WN: 1  AVG: 5  HC: 10  Patt: 12345  DF: 5  
+habst  WN: 1  AVG: 5  HC: 1530  Patt: 12345  DF: 5  
+apedop  WN: 1  AVG: 6  HC: 62  Patt: 123452  DF: 5  
+ajukj  WN: 1  AVG: 5  HC: 5  Patt: 12342  DF: 4  
+blei  r ig  WN: 3  AVG: 2.33333333333333  HC: 1910  Patt: 1234546  DF: 6  
+x  et  WN: 2  AVG: 1.5  HC: 9870000  Patt: 123  DF: 3  
+objpmc  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+ f aee  WN: 3  AVG: 1.33333333333333  HC: 30100  Patt: 1233  DF: 3  
+lrxkm  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+afbpu  WN: 1  AVG: 5  HC: 22  Patt: 12345  DF: 5  
+m at m attm at m atp  WN: 7  AVG: 2  HC: 37  Patt: 12312331231234  DF: 4  
+eeais r ig  WN: 3  AVG: 2.66666666666667  HC: 2  Patt: 11234536  DF: 6  
+afbp m  m    m m umi  WN: 6  AVG: 1.83333333333333  HC: 3  Patt: 12345555657  DF: 7  
+esrew  WN: 1  AVG: 5  HC: 16  Patt: 12314  DF: 4  
+eo  kl  WN: 2  AVG: 2  HC: 112000  Patt: 1234  DF: 4  
+ecbst  WN: 1  AVG: 5  HC: 8  Patt: 12345  DF: 5  
+ee is r ig  WN: 4  AVG: 1.75  HC: 122000  Patt: 1123425  DF: 5  
+mnapp  WN: 1  AVG: 5  HC: 71  Patt: 12344  DF: 4  
+as cwas cwas cwas cu  WN: 5  AVG: 3.2  HC: 295  Patt: 1234123412341235  DF: 5  
+efeuh  WN: 1  AVG: 5  HC: 92  Patt: 12134  DF: 4  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+ijukj  WN: 1  AVG: 5  HC: 10  Patt: 12342  DF: 4  
+tfkp m  m    m m umi  WN: 6  AVG: 1.83333333333333  HC: 9  Patt: 12345555657  DF: 7  
+h bst  WN: 2  AVG: 2  HC: 149000  Patt: 1234  DF: 4  
+mc  el  WN: 2  AVG: 2  HC: 2100000  Patt: 1234  DF: 4  
+mo  el  WN: 2  AVG: 2  HC: 2270000  Patt: 1234  DF: 4  
+tuucj  WN: 1  AVG: 5  HC: 1  Patt: 12234  DF: 4  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+xuukc  WN: 1  AVG: 5  HC: 3  Patt: 12234  DF: 4  
+x  bt  WN: 2  AVG: 1.5  HC: 1400000  Patt: 123  DF: 3  
+ijukj  WN: 1  AVG: 5  HC: 10  Patt: 12342  DF: 4  
+aqbpu  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+hlmst  WN: 1  AVG: 5  HC: 185  Patt: 12345  DF: 5  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+m  t m  m    m m umcm w  m  m    m m umi  WN: 13  AVG: 1.38461538461538  HC: 2  Patt: 121111314151111316  DF: 6  
+ h u    uh  WN: 4  AVG: 1  HC: 115000  Patt: 1221  DF: 2  
+dm ro  WN: 2  AVG: 2  HC: 275000  Patt: 1234  DF: 4  
+x  etx  et  WN: 3  AVG: 2  HC: 24100  Patt: 123123  DF: 3  
+ehwuh  WN: 1  AVG: 5  HC: 47  Patt: 12342  DF: 4  
+mf  eemf  e mf  eemf  el  WN: 6  AVG: 2.5  HC: 106  Patt: 123312312331234  DF: 4  
+epfdop  WN: 1  AVG: 6  HC: 1  Patt: 123452  DF: 5  
+ u      i   vi    if  WN: 5  AVG: 1.2  HC: 949000  Patt: 123224  DF: 4  
+   cu  WN: 2  AVG: 1  HC: 6250000  Patt: 12  DF: 2  
+x  et  WN: 2  AVG: 1.5  HC: 9870000  Patt: 123  DF: 3  
+x set  WN: 2  AVG: 2  HC: 8550000  Patt: 1234  DF: 4  
+xvswd  WN: 1  AVG: 5  HC: 5  Patt: 12345  DF: 5  
+ecesh  WN: 1  AVG: 5  HC: 557  Patt: 12134  DF: 4  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+lrokm  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+xbtqt  WN: 1  AVG: 5  HC: 2  Patt: 12343  DF: 4  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+xbyqt  WN: 1  AVG: 5  HC: 7  Patt: 12345  DF: 5  
+n  etn  ig  WN: 3  AVG: 2  HC: 1910  Patt: 123145  DF: 5  
+e set  WN: 2  AVG: 2  HC: 9540000  Patt: 1213  DF: 3  
+bfywk  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+ c  ef c  ef c  ef c  el  WN: 9  AVG: 1.33333333333333  HC: 380000  Patt: 123123123124  DF: 4  
+aoukj  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+harsw  WN: 1  AVG: 5  HC: 25  Patt: 12345  DF: 5  
+ cbst  WN: 2  AVG: 2  HC: 4600  Patt: 1234  DF: 4  
+eemis r ig  WN: 3  AVG: 2.66666666666667  HC: 5  Patt: 11234536  DF: 6  
+   p  ftp   tp  ftpu  WN: 5  AVG: 2  HC: 26  Patt: 1231312314  DF: 4  
+af eu  WN: 2  AVG: 2  HC: 1070000  Patt: 1234  DF: 4  
+ebtey  WN: 1  AVG: 5  HC: 11  Patt: 12314  DF: 4  
+   ec   et  WN: 3  AVG: 1.33333333333333  HC: 2260000  Patt: 1213  DF: 3  
+mo  elmo  elmo  elmo  el  WN: 5  AVG: 3.2  HC: 20200  Patt: 1234123412341234  DF: 4  
+fiun m atp  WN: 3  AVG: 2.66666666666667  HC: 4  Patt: 12345678  DF: 8  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+tl q tlkqo  WN: 3  AVG: 2.66666666666667  HC: 2  Patt: 12312435  DF: 5  
+tl q tlkqo  WN: 3  AVG: 2.66666666666667  HC: 2  Patt: 12312435  DF: 5  
+eer  ueer ks  WN: 3  AVG: 3  HC: 38  Patt: 112311245  DF: 5  
+xr ew  WN: 2  AVG: 2  HC: 57500  Patt: 1234  DF: 4  
+ijukj  WN: 1  AVG: 5  HC: 10  Patt: 12342  DF: 4  
+x  et  WN: 2  AVG: 1.5  HC: 9870000  Patt: 123  DF: 3  
+airmw  WN: 1  AVG: 5  HC: 161  Patt: 12345  DF: 5  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+x  etx  et  WN: 3  AVG: 2  HC: 24100  Patt: 123123  DF: 3  
+ahtft  WN: 1  AVG: 5  HC: 3  Patt: 12343  DF: 4  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+ebtey  WN: 1  AVG: 5  HC: 11  Patt: 12314  DF: 4  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+lrxkm  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+b  eib  et  WN: 3  AVG: 2  HC: 23800  Patt: 123124  DF: 4  
+x  etx  et  WN: 3  AVG: 2  HC: 24100  Patt: 123123  DF: 3  
+ee is r ig  WN: 4  AVG: 1.75  HC: 119000  Patt: 1123425  DF: 5  
+meais r ig  WN: 3  AVG: 2.66666666666667  HC: 20  Patt: 12345647  DF: 7  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+lrxkm  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+xr qt  WN: 2  AVG: 2  HC: 56400  Patt: 1234  DF: 4  
+xedex  WN: 1  AVG: 5  HC: 7940  Patt: 12321  DF: 3  
+xnhvm  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+  ryt  WN: 2  AVG: 1.5  HC: 25800  Patt: 123  DF: 3  
+   e    et  WN: 3  AVG: 1  HC: 13600000  Patt: 112  DF: 2  
+   eu   et  WN: 3  AVG: 1.33333333333333  HC: 4460000  Patt: 1213  DF: 3  
+ebtey  WN: 1  AVG: 5  HC: 11  Patt: 12314  DF: 4  
+m auam atsm at m atp  WN: 6  AVG: 2.5  HC: 1  Patt: 123212451241246  DF: 6  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+h  st  WN: 2  AVG: 1.5  HC: 6830000  Patt: 123  DF: 3  
+h  eth rsw  WN: 3  AVG: 2.33333333333333  HC: 689  Patt: 1231456  DF: 6  
+   eu  WN: 2  AVG: 1  HC: 24900000  Patt: 12  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+tj k tj kj  WN: 4  AVG: 1.75  HC: 164000  Patt: 1231232  DF: 3  
+afbpu  WN: 1  AVG: 5  HC: 22  Patt: 12345  DF: 5  
+x  et  WN: 2  AVG: 1.5  HC: 9870000  Patt: 123  DF: 3  
+tl prtl qo  WN: 3  AVG: 2.66666666666667  HC: 26  Patt: 12341256  DF: 6  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+q  etq  ev  WN: 3  AVG: 2  HC: 1980  Patt: 123124  DF: 4  
+xpqjc  WN: 1  AVG: 5  HC: 5  Patt: 12345  DF: 5  
+   et   et   et   et  WN: 5  AVG: 1.6  HC: 8710000  Patt: 12121212  DF: 2  
+  tp  ftp   tp  ftpu  WN: 5  AVG: 2.2  HC: 30  Patt: 12312123124  DF: 4  
+ebtey  WN: 1  AVG: 5  HC: 11  Patt: 12314  DF: 4  
+duvif  WN: 1  AVG: 5  HC: 56  Patt: 12345  DF: 5  
+tl  rml qo  WN: 3  AVG: 2.33333333333333  HC: 1400  Patt: 1234256  DF: 6  
+mc ee   elm  ee   et  WN: 5  AVG: 2.2  HC: 4190  Patt: 12333413335  DF: 5  
+er      wf  WN: 2  AVG: 2  HC: 182000  Patt: 1234  DF: 4  
+ee is r igee is r igee is r igee is r ig  WN: 13  AVG: 2.15384615384615  HC: 141  Patt: 1123425112342511234251123425  DF: 5  
+bl eib  eibl eib  eibl eib  eibl eib  et  WN: 9  AVG: 3.11111111111111  HC: 29  Patt: 1234134123413412341341234135  DF: 5  
+a  m  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.44444444444444  HC: 2  Patt: 1234545345645345453457  DF: 7  
+krpig  WN: 1  AVG: 5  HC: 11  Patt: 12345  DF: 5  
+m at m attm at m atp  WN: 7  AVG: 2  HC: 37  Patt: 12312331231234  DF: 4  
+m ae m attm at m attm ae m attm at m atp  WN: 13  AVG: 2.15384615384615  HC: 6  Patt: 1231244124124412312441241245  DF: 5  
+d vifd vet  WN: 3  AVG: 2.66666666666667  HC: 7  Patt: 12341256  DF: 6  
+e klv  WN: 2  AVG: 2  HC: 42300  Patt: 1234  DF: 4  
+ h u  h uh  WN: 5  AVG: 1  HC: 86400  Patt: 12121  DF: 2  
+x  et  WN: 2  AVG: 1.5  HC: 10300000  Patt: 123  DF: 3  
+ h u  h uh  WN: 5  AVG: 1  HC: 86400  Patt: 12121  DF: 2  
+ecd b  WN: 2  AVG: 2  HC: 119000  Patt: 1234  DF: 4  
+e tlv  WN: 2  AVG: 2  HC: 91900  Patt: 1234  DF: 4  
+a  ft  WN: 2  AVG: 1.5  HC: 11900000  Patt: 123  DF: 3  
+   tt  WN: 2  AVG: 1  HC: 5090000  Patt: 11  DF: 1  
+e tlv  WN: 2  AVG: 2  HC: 91900  Patt: 1234  DF: 4  
+ r ig  WN: 3  AVG: 1  HC: 879000  Patt: 123  DF: 3  
+mc  el  WN: 2  AVG: 2  HC: 2100000  Patt: 1234  DF: 4  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+   it  WN: 2  AVG: 1  HC: 481000000  Patt: 12  DF: 2  
+ahtft  WN: 1  AVG: 5  HC: 3  Patt: 12343  DF: 4  
+   cb   cu  WN: 3  AVG: 1.33333333333333  HC: 170000  Patt: 1213  DF: 3  
+frun   t    tp    p  r    ftp   tp   tpu  WN: 8  AVG: 2.125  HC: 1  Patt: 12345566215656563  DF: 6  
+ c  el  WN: 3  AVG: 1  HC: 6620000  Patt: 123  DF: 3  
+htmej  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+   cu  WN: 2  AVG: 1  HC: 6250000  Patt: 12  DF: 2  
+  tet  WN: 2  AVG: 1.5  HC: 472000  Patt: 121  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+e  lte tlv  WN: 3  AVG: 2.33333333333333  HC: 462  Patt: 1231324  DF: 4  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+  uej  WN: 2  AVG: 1.5  HC: 3930  Patt: 123  DF: 3  
+x  et  WN: 2  AVG: 1.5  HC: 9870000  Patt: 123  DF: 3  
+ l i tlkqo  WN: 4  AVG: 1.75  HC: 1  Patt: 1231456  DF: 6  
+   pt  WN: 2  AVG: 1  HC: 14400000  Patt: 12  DF: 2  
+bf wk  WN: 2  AVG: 2  HC: 73700  Patt: 1234  DF: 4  
+ l et  WN: 3  AVG: 1  HC: 11400000  Patt: 123  DF: 3  
+e tlv  WN: 2  AVG: 2  HC: 98500  Patt: 1234  DF: 4  
+   ep  WN: 2  AVG: 1  HC: 4960000  Patt: 12  DF: 2  
+esrew  WN: 1  AVG: 5  HC: 16  Patt: 12314  DF: 4  
+ebtqt  WN: 1  AVG: 5  HC: 5  Patt: 12343  DF: 4  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+x  et  WN: 2  AVG: 1.5  HC: 9870000  Patt: 123  DF: 3  
+b  gwb  gt  WN: 3  AVG: 2  HC: 3770  Patt: 123124  DF: 4  
+   kj  WN: 2  AVG: 1  HC: 1680000  Patt: 12  DF: 2  
+mo  el  WN: 2  AVG: 2  HC: 2270000  Patt: 1234  DF: 4  
+   e    et  WN: 3  AVG: 1  HC: 13600000  Patt: 112  DF: 2  
+e  et  WN: 2  AVG: 1.5  HC: 13600000  Patt: 112  DF: 2  
+eireks  WN: 1  AVG: 6  HC: 54  Patt: 123145  DF: 5  
+x  et  WN: 2  AVG: 1.5  HC: 10300000  Patt: 123  DF: 3  
+f  nt  WN: 2  AVG: 1.5  HC: 2520000  Patt: 123  DF: 3  
+x  etx  et  WN: 3  AVG: 2  HC: 24100  Patt: 123123  DF: 3  
+   iu   it  WN: 3  AVG: 1.33333333333333  HC: 676000  Patt: 1213  DF: 3  
+esrew  WN: 1  AVG: 5  HC: 16  Patt: 12314  DF: 4  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+e  et  WN: 2  AVG: 1.5  HC: 13600000  Patt: 112  DF: 2  
+ o  eumo  el  WN: 4  AVG: 1.75  HC: 6970  Patt: 1234125  DF: 5  
+  xl    ld  WN: 3  AVG: 1.33333333333333  HC: 70300  Patt: 1223  DF: 3  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+h bst  WN: 2  AVG: 2  HC: 149000  Patt: 1234  DF: 4  
+nq ig  WN: 2  AVG: 2  HC: 44200  Patt: 1234  DF: 4  
+m u  m  m    m m umi  WN: 7  AVG: 1.28571428571429  HC: 2410  Patt: 121111213  DF: 3  
+x  et  WN: 2  AVG: 1.5  HC: 10300000  Patt: 123  DF: 3  
+bleei  WN: 1  AVG: 5  HC: 321  Patt: 12334  DF: 4  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+mo  elmo  el  WN: 3  AVG: 2.66666666666667  HC: 20100  Patt: 12341234  DF: 4  
+ecrsw  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+  je   t    tp    p  r    ftp   tp   tpt rj    t    tp    p  r    ftp   tp   tpu  WN: 17  AVG: 1.76470588235294  HC: 13  Patt: 123344563434343513344563434347  DF: 7  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+mo  el  WN: 2  AVG: 2  HC: 2270000  Patt: 1234  DF: 4  
+m  e m  m    m m umtm  e m  m    m m umi  WN: 13  AVG: 1.38461538461538  HC: 1  Patt: 121111314121111315  DF: 5  
+eo  kl  WN: 2  AVG: 2  HC: 110000  Patt: 1234  DF: 4  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+x  etx  et  WN: 3  AVG: 2  HC: 24100  Patt: 123123  DF: 3  
+ j et  WN: 3  AVG: 1  HC: 10100000  Patt: 123  DF: 3  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+  jep   et  WN: 3  AVG: 1.66666666666667  HC: 45400  Patt: 12324  DF: 4  
+   et   et   et   et  WN: 5  AVG: 1.6  HC: 8710000  Patt: 12121212  DF: 2  
+   ew   et  WN: 3  AVG: 1.33333333333333  HC: 888000  Patt: 1213  DF: 3  
+ l yi   et  WN: 4  AVG: 1.25  HC: 284000  Patt: 12345  DF: 5  
+    u  WN: 2  AVG: 0.5  HC: 97600000  Patt: 1  DF: 1  
+   ct   cu  WN: 3  AVG: 1.33333333333333  HC: 277000  Patt: 1213  DF: 3  
+ijukj  WN: 1  AVG: 5  HC: 10  Patt: 12342  DF: 4  
+aokpj  WN: 1  AVG: 5  HC: 87  Patt: 12345  DF: 5  
+i ukti ukj  WN: 3  AVG: 2.66666666666667  HC: 3  Patt: 12341235  DF: 5  
+mo  el  WN: 2  AVG: 2  HC: 2270000  Patt: 1234  DF: 4  
+x tqt  WN: 2  AVG: 2  HC: 6120  Patt: 1232  DF: 3  
+   fta  ft   fta  ft  WN: 5  AVG: 2  HC: 96900  Patt: 1231212312  DF: 3  
+ c  el  WN: 3  AVG: 1  HC: 6620000  Patt: 123  DF: 3  
+ cbst  WN: 2  AVG: 2  HC: 4600  Patt: 1234  DF: 4  
+x hem  WN: 2  AVG: 2  HC: 697000  Patt: 1234  DF: 4  
+m at m atp  WN: 4  AVG: 1.75  HC: 587000  Patt: 1231234  DF: 4  
+albpu  WN: 1  AVG: 5  HC: 19  Patt: 12345  DF: 5  
+a  ft  WN: 2  AVG: 1.5  HC: 11900000  Patt: 123  DF: 3  
+ u cu  WN: 3  AVG: 1  HC: 1360000  Patt: 121  DF: 2  
+a  ft  WN: 2  AVG: 1.5  HC: 11900000  Patt: 123  DF: 3  
+ c et  WN: 3  AVG: 1  HC: 12300000  Patt: 123  DF: 3  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+nqmwr  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+   eta  ft  WN: 3  AVG: 1.66666666666667  HC: 32200  Patt: 12342  DF: 4  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+tsuwj  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+habst  WN: 1  AVG: 5  HC: 1530  Patt: 12345  DF: 5  
+ehtki  WN: 1  AVG: 5  HC: 6  Patt: 12345  DF: 5  
+a uuj  WN: 2  AVG: 2  HC: 5770  Patt: 1223  DF: 3  
+tc kj  WN: 2  AVG: 2  HC: 136000  Patt: 1234  DF: 4  
+x set  WN: 2  AVG: 2  HC: 8010000  Patt: 1234  DF: 4  
+qpoii  WN: 1  AVG: 5  HC: 14  Patt: 12344  DF: 4  
+albpu  WN: 1  AVG: 5  HC: 19  Patt: 12345  DF: 5  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+brsgw  WN: 1  AVG: 5  HC: 10  Patt: 12345  DF: 5  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+e  lte  lv  WN: 3  AVG: 2  HC: 3430  Patt: 123124  DF: 4  
+t be t bet  WN: 4  AVG: 1.75  HC: 2600000  Patt: 1231231  DF: 3  
+ oufb oufc  WN: 3  AVG: 2.66666666666667  HC: 7  Patt: 12341235  DF: 5  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+x s t   et  WN: 4  AVG: 1.25  HC: 10100  Patt: 12343  DF: 4  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+hcbst  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+xl kcx  kt  WN: 3  AVG: 2.33333333333333  HC: 1260  Patt: 1234135  DF: 5  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+a  ft  WN: 2  AVG: 1.5  HC: 11900000  Patt: 123  DF: 3  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+mo  el  WN: 2  AVG: 2  HC: 2270000  Patt: 1234  DF: 4  
+h  st  WN: 2  AVG: 1.5  HC: 6830000  Patt: 123  DF: 3  
+ee ii  WN: 2  AVG: 2  HC: 2450000  Patt: 1122  DF: 2  
+x  et   et   et   et  WN: 5  AVG: 1.8  HC: 5390000  Patt: 123232323  DF: 3  
+ee eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  eu  WN: 17  AVG: 2.88235294117647  HC: 747  Patt: 1112113112113112113112113112113112113112113112114  DF: 4  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+   ete  et  WN: 3  AVG: 1.66666666666667  HC: 211000  Patt: 12112  DF: 2  
+lr km  WN: 2  AVG: 2  HC: 242000  Patt: 1234  DF: 4  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+ c et  WN: 3  AVG: 1  HC: 13500000  Patt: 123  DF: 3  
+t tl m  m    m m umi  WN: 7  AVG: 1.42857142857143  HC: 1870  Patt: 1123333435  DF: 5  
+   et  WN: 2  AVG: 1  HC: 165000000  Patt: 12  DF: 2  
+   ete  et  WN: 3  AVG: 1.66666666666667  HC: 211000  Patt: 12112  DF: 2  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8860000  Patt: 1212  DF: 2  
+eo  kl  WN: 2  AVG: 2  HC: 112000  Patt: 1234  DF: 4  
+h  sth rsw  WN: 3  AVG: 2.33333333333333  HC: 635  Patt: 1231425  DF: 5  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+xpqjc  WN: 1  AVG: 5  HC: 5  Patt: 12345  DF: 5  
+m at m atp  WN: 4  AVG: 1.75  HC: 583000  Patt: 1231234  DF: 4  
+a r oy  WN: 3  AVG: 1.33333333333333  HC: 119000  Patt: 1234  DF: 4  
+   bt   bu  WN: 3  AVG: 1.33333333333333  HC: 178000  Patt: 1213  DF: 3  
+x  etx  et  WN: 3  AVG: 2  HC: 24000  Patt: 123123  DF: 3  
+   kt  WN: 2  AVG: 1  HC: 2690000  Patt: 12  DF: 2  
+m   el  WN: 2  AVG: 1.5  HC: 6230000  Patt: 123  DF: 3  
+brsqhn  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+habrp  WN: 1  AVG: 5  HC: 8  Patt: 12345  DF: 5  
+ee eke  use  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  eu  WN: 17  AVG: 2.88235294117647  HC: 299  Patt: 1112134112114112114112114112114112114112114112113  DF: 4  
+qgqmv  WN: 1  AVG: 5  HC: 8  Patt: 12134  DF: 4  
+esr w  WN: 2  AVG: 2  HC: 72600  Patt: 1234  DF: 4  
+eo  el  WN: 2  AVG: 2  HC: 729000  Patt: 1213  DF: 3  
+tp dj  WN: 2  AVG: 2  HC: 307000  Patt: 1234  DF: 4  
+   et   et   et   ew  WN: 5  AVG: 1.6  HC: 406000  Patt: 12121213  DF: 3  
+dsv f  WN: 2  AVG: 2  HC: 27300  Patt: 1234  DF: 4  
+xbyqt  WN: 1  AVG: 5  HC: 8  Patt: 12345  DF: 5  
+e ogue  gt  WN: 3  AVG: 2.33333333333333  HC: 237  Patt: 1234135  DF: 5  
+hf sth rsw  WN: 3  AVG: 2.66666666666667  HC: 176  Patt: 12341536  DF: 6  
+  bsth bsth bsth bst  bsth bsth bsth bs   bsth bsth bsth bst  bsth bsth bsth bst  WN: 17  AVG: 3.47058823529412  HC: 49  Patt: 12341234123412312341234123412123412341234123123412341234123  DF: 4  
+t u j  WN: 3  AVG: 1  HC: 37600  Patt: 123  DF: 3  
+x  et  WN: 2  AVG: 1.5  HC: 9860000  Patt: 123  DF: 3  
+te prtr qo  WN: 3  AVG: 2.66666666666667  HC: 64  Patt: 12341456  DF: 6  
+kioeoi  WN: 1  AVG: 6  HC: 3  Patt: 123432  DF: 4  
+x  etx  ewx  etx  et  WN: 5  AVG: 2.4  HC: 250  Patt: 123124123123  DF: 4  
+   lu   et  WN: 3  AVG: 1.33333333333333  HC: 2270000  Patt: 1234  DF: 4  
+   et  WN: 2  AVG: 1  HC: 164000000  Patt: 12  DF: 2  
+lpbct  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+brsgw  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+hcbst  WN: 1  AVG: 5  HC: 11  Patt: 12345  DF: 5  
+   p m  m    m m umt   p m  m    m m umi  WN: 13  AVG: 1.23076923076923  HC: 158  Patt: 1222232412222325  DF: 5  
+ebtey  WN: 1  AVG: 5  HC: 11  Patt: 12314  DF: 4  
+brsgw  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+h  sth  st  WN: 3  AVG: 2  HC: 28000  Patt: 123123  DF: 3  
+tjukj  WN: 1  AVG: 5  HC: 6  Patt: 12342  DF: 4  
+d  etn  ig  WN: 3  AVG: 2  HC: 1920  Patt: 123456  DF: 6  
+a  fta  ft  WN: 3  AVG: 2  HC: 128000  Patt: 123123  DF: 3  
+htmej  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+habst  WN: 1  AVG: 5  HC: 1560  Patt: 12345  DF: 5  
+ pqjc  WN: 2  AVG: 2  HC: 127  Patt: 1234  DF: 4  
+brsgw  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+   ew   et  WN: 3  AVG: 1.33333333333333  HC: 871000  Patt: 1213  DF: 3  
+a  ft  WN: 2  AVG: 1.5  HC: 12000000  Patt: 123  DF: 3  
+ btey  WN: 2  AVG: 2  HC: 245  Patt: 1234  DF: 4  
+af eu  WN: 2  AVG: 2  HC: 1050000  Patt: 1234  DF: 4  
+ijukj  WN: 1  AVG: 5  HC: 10  Patt: 12342  DF: 4  
+ rj    t    tp    p  r    ftp   tp   tpu  WN: 9  AVG: 1.66666666666667  HC: 279  Patt: 123344153434346  DF: 6  
+tj et  WN: 2  AVG: 2  HC: 1190000  Patt: 1231  DF: 3  
+e tey  WN: 2  AVG: 2  HC: 20600  Patt: 1213  DF: 3  
+airmw  WN: 1  AVG: 5  HC: 158  Patt: 12345  DF: 5  
+habs habst  WN: 2  AVG: 4.5  HC: 270  Patt: 123412345  DF: 5  
+b lqhn  WN: 2  AVG: 2.5  HC: 272  Patt: 12345  DF: 5  
+lr km  WN: 2  AVG: 2  HC: 236000  Patt: 1234  DF: 4  
+ekyof  WN: 1  AVG: 5  HC: 9  Patt: 12345  DF: 5  
+airmw  WN: 1  AVG: 5  HC: 158  Patt: 12345  DF: 5  
+bdtjm  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+a r oy  WN: 3  AVG: 1.33333333333333  HC: 119000  Patt: 1234  DF: 4  
+ecast  WN: 1  AVG: 5  HC: 3460  Patt: 12345  DF: 5  
+hf st  WN: 2  AVG: 2  HC: 389000  Patt: 1234  DF: 4  
+m he m  m    m m umtm  e m  m    m m umi  WN: 13  AVG: 1.46153846153846  HC: 1  Patt: 1231111415131111416  DF: 6  
+h   th os el  WN: 4  AVG: 1.75  HC: 98000  Patt: 1213456  DF: 6  
+brsfw  WN: 1  AVG: 5  HC: 5  Patt: 12345  DF: 5  
+ha stha st  WN: 3  AVG: 2.66666666666667  HC: 868  Patt: 12341234  DF: 4  
+   et  WN: 2  AVG: 1  HC: 164000000  Patt: 12  DF: 2  
+   fu  WN: 2  AVG: 1  HC: 4280000  Patt: 12  DF: 2  
+ee yi   ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  eu  WN: 17  AVG: 2.82352941176471  HC: 432  Patt: 112314115114115114115114115114115114115114115116  DF: 6  
+brsgw  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+ebkey  WN: 1  AVG: 5  HC: 71  Patt: 12314  DF: 4  
+e  ege  et  WN: 3  AVG: 2  HC: 49200  Patt: 112113  DF: 3  
+af iuap ii  WN: 3  AVG: 2.66666666666667  HC: 530  Patt: 12341533  DF: 5  
+brsfw  WN: 1  AVG: 5  HC: 5  Patt: 12345  DF: 5  
+bl eib  eibl eib  eibl eib  eibl eib  et  WN: 9  AVG: 3.11111111111111  HC: 28  Patt: 1234134123413412341341234135  DF: 5  
+n  etn  eg  WN: 3  AVG: 2  HC: 3430  Patt: 123124  DF: 4  
+m u  m  m    m m umtm u  m  m    m m umi  WN: 13  AVG: 1.38461538461538  HC: 1  Patt: 121111213121111214  DF: 4  
+i ukti ukti ukti ukj  WN: 5  AVG: 3.2  HC: 2  Patt: 1234123412341235  DF: 5  
+   ik  WN: 2  AVG: 1  HC: 11300000  Patt: 12  DF: 2  
+   del  WN: 2  AVG: 1.5  HC: 115000000  Patt: 123  DF: 3  
+a  m  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.44444444444444  HC: 2  Patt: 1234545345645345453457  DF: 7  
+   et  WN: 2  AVG: 1  HC: 164000000  Patt: 12  DF: 2  
+ai st  WN: 2  AVG: 2  HC: 2020000  Patt: 1234  DF: 4  
+tjukj  WN: 1  AVG: 5  HC: 6  Patt: 12342  DF: 4  
+afbp m  m    m m umi  WN: 6  AVG: 1.83333333333333  HC: 3  Patt: 12345555657  DF: 7  
+alkpy  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+h  st  WN: 2  AVG: 1.5  HC: 6710000  Patt: 123  DF: 3  
+bfywk  WN: 1  AVG: 5  HC: 4  Patt: 12345  DF: 5  
+a  fta  ft  WN: 3  AVG: 2  HC: 128000  Patt: 123123  DF: 3  
+e tlv  WN: 2  AVG: 2  HC: 96300  Patt: 1234  DF: 4  
+tl q tlkqo  WN: 3  AVG: 2.66666666666667  HC: 2  Patt: 12312435  DF: 5  
+harsw  WN: 1  AVG: 5  HC: 26  Patt: 12345  DF: 5  
+hcbst  WN: 1  AVG: 5  HC: 11  Patt: 12345  DF: 5  
+tqj    t    tp    p  r    ftp   tp   tpu  WN: 8  AVG: 2  HC: 16  Patt: 1231144561414147  DF: 7  
+   p    p   tp  ftpt  tp  ftp   tp  ftpu  WN: 9  AVG: 2.11111111111111  HC: 3  Patt: 1121321221321213214  DF: 4  
+srsgw  WN: 1  AVG: 5  HC: 36  Patt: 12134  DF: 4  
+   et  WN: 2  AVG: 1  HC: 164000000  Patt: 12  DF: 2  
+aokpj  WN: 1  AVG: 5  HC: 87  Patt: 12345  DF: 5  
+x set  WN: 2  AVG: 2  HC: 7960000  Patt: 1234  DF: 4  
+dq etn  ig  WN: 3  AVG: 2.33333333333333  HC: 1330  Patt: 1234567  DF: 7  
+tqbki  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+bf wk  WN: 2  AVG: 2  HC: 73700  Patt: 1234  DF: 4  
+   et c et c et c et c et c et c et c et   et c et c et c et c et c et c et c et  WN: 31  AVG: 1.48387096774194  HC: 6620000  Patt: 1231231231231231231231212312312312312312312312  DF: 3  
+e    s  WN: 2  AVG: 1  HC: 11200000  Patt: 12  DF: 2  
+ahtft  WN: 1  AVG: 5  HC: 3  Patt: 12343  DF: 4  
+ae eks  WN: 2  AVG: 2.5  HC: 9140  Patt: 12234  DF: 4  
+m u  m  m    m m umtm u  m  m    m m umi  WN: 13  AVG: 1.38461538461538  HC: 1  Patt: 121111213121111214  DF: 4  
+x  etx  ewx  etx  et  WN: 5  AVG: 2.4  HC: 250  Patt: 123124123123  DF: 4  
+xhqef  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+ebtey  WN: 1  AVG: 5  HC: 11  Patt: 12314  DF: 4  
+m at m atp  WN: 4  AVG: 1.75  HC: 582000  Patt: 1231234  DF: 4  
+  j    t    tp    p  r    ftp   tp   tpu  WN: 9  AVG: 1.55555555555556  HC: 800  Patt: 12233452323236  DF: 6  
+ j etx  ewx  etx  et  WN: 6  AVG: 2  HC: 238  Patt: 123425423423  DF: 5  
+a  ewa  et  WN: 3  AVG: 2  HC: 71900  Patt: 123124  DF: 4  
+bdxgw  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+t be t bet  WN: 4  AVG: 1.75  HC: 2660000  Patt: 1231231  DF: 3  
+mj  ex  ewx  etx  et  WN: 5  AVG: 2.4  HC: 113  Patt: 123435436436  DF: 6  
+eo  el  WN: 2  AVG: 2  HC: 728000  Patt: 1213  DF: 3  
+bfyek  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+tu ct  WN: 2  AVG: 2  HC: 440000  Patt: 1231  DF: 3  
+   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et   et  WN: 33  AVG: 1.93939393939394  HC: 8810000  Patt: 1212121212121212121212121212121212121212121212121212121212121212  DF: 2  
+ecdcb  WN: 1  AVG: 5  HC: 132  Patt: 12324  DF: 4  
+te prtr qo  WN: 3  AVG: 2.66666666666667  HC: 64  Patt: 12341456  DF: 6  
+a  m  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.44444444444444  HC: 2  Patt: 1234545345645345453457  DF: 7  
+   et  WN: 2  AVG: 1  HC: 164000000  Patt: 12  DF: 2  
+lrokm  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+b  gwb  gt  WN: 3  AVG: 2  HC: 3780  Patt: 123124  DF: 4  
+rdxmi  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+  set  sit  WN: 3  AVG: 2  HC: 2030000  Patt: 123143  DF: 4  
+  u j  WN: 3  AVG: 0.666666666666667  HC: 590000  Patt: 12  DF: 2  
+   cu  WN: 2  AVG: 1  HC: 6320000  Patt: 12  DF: 2  
+t tl m  m    m m umi  WN: 7  AVG: 1.42857142857143  HC: 1870  Patt: 1123333435  DF: 5  
+b  ewb  et  WN: 3  AVG: 2  HC: 7000  Patt: 123124  DF: 4  
+h  st  WN: 2  AVG: 1.5  HC: 6650000  Patt: 123  DF: 3  
+krpig  WN: 1  AVG: 5  HC: 11  Patt: 12345  DF: 5  
+   et   et  WN: 3  AVG: 1.33333333333333  HC: 8740000  Patt: 1212  DF: 2  
+ pqjt  WN: 2  AVG: 2  HC: 151  Patt: 1234  DF: 4  
+mce ehmc  el  WN: 3  AVG: 3  HC: 14  Patt: 123341235  DF: 5  
+ebogu  WN: 1  AVG: 5  HC: 507  Patt: 12345  DF: 5  
+bl eib  eibl eib  eibl eib  eibl eib  et  WN: 9  AVG: 3.11111111111111  HC: 28  Patt: 1234134123413412341341234135  DF: 5  
+qpoii  WN: 1  AVG: 5  HC: 14  Patt: 12344  DF: 4  
+efeuh  WN: 1  AVG: 5  HC: 93  Patt: 12134  DF: 4  
+ehtki  WN: 1  AVG: 5  HC: 5  Patt: 12345  DF: 5  
+xr qmxr qmxr qmxr qt  WN: 5  AVG: 3.2  HC: 32  Patt: 1234123412341235  DF: 5  
+m at m atp  WN: 4  AVG: 1.75  HC: 582000  Patt: 1231234  DF: 4  
+bf wk  WN: 2  AVG: 2  HC: 73700  Patt: 1234  DF: 4  
+a  m  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.44444444444444  HC: 2  Patt: 1234545345645345453457  DF: 7  
+xc bhx  bt  WN: 3  AVG: 2.33333333333333  HC: 1820  Patt: 1234135  DF: 5  
+xl kex  kt  WN: 3  AVG: 2.33333333333333  HC: 1240  Patt: 1234135  DF: 5  
+   fu   fu  WN: 3  AVG: 1.33333333333333  HC: 2300000  Patt: 1212  DF: 2  
+m   elmo  elmo  elmo  el  WN: 5  AVG: 3  HC: 33000  Patt: 123142314231423  DF: 4  
+harsw  WN: 1  AVG: 5  HC: 24  Patt: 12345  DF: 5  
+nq ig  WN: 2  AVG: 2  HC: 45300  Patt: 1234  DF: 4  
+hcbst  WN: 1  AVG: 5  HC: 12  Patt: 12345  DF: 5  
+a tm  f p   tp  ftpw  tp  ftp   tp  ftpu  WN: 10  AVG: 2.2  HC: 1  Patt: 1234525425625425254257  DF: 7  
+ f et  WN: 3  AVG: 1  HC: 9070000  Patt: 123  DF: 3  
+ o  bh of ec o  bh of el  WN: 9  AVG: 1.55555555555556  HC: 61700  Patt: 12314561231457  DF: 7  
+aokpj  WN: 1  AVG: 5  HC: 83  Patt: 12345  DF: 5  
+ee is r ig  WN: 4  AVG: 1.75  HC: 128000  Patt: 1123425  DF: 5  
+vshw vshwq  WN: 2  AVG: 4.5  HC: 1  Patt: 123412345  DF: 5  
+    t  WN: 2  AVG: 0.5  HC: 281000000  Patt: 1  DF: 1  
+ c yi   et  WN: 4  AVG: 1.25  HC: 296000  Patt: 12345  DF: 5  
+bo eib  eibl eib  eibl eib  eibl eib  ejbl eib  eibl eib  eibl eib  eibl eib  ejbl eib  eibl eib  eibl eib  eibl eib  ejbl eib  eibl eib  eibl eib  eibl eib  et  WN: 33  AVG: 3.39393939393939  HC: 2  Patt: 1234134153413415341341534136153413415341341534134153413615341341534134153413415341361534134153413415341341534137  DF: 7  
+adkpj  WN: 1  AVG: 5  HC: 9  Patt: 12345  DF: 5  
+x  et   et  WN: 3  AVG: 1.66666666666667  HC: 5200000  Patt: 12323  DF: 3  
+a be t beta be t bet  WN: 7  AVG: 2  HC: 158000  Patt: 12342341234234  DF: 4  
+   et  WN: 2  AVG: 1  HC: 163000000  Patt: 12  DF: 2  
+ a eth  s  a eth  st  WN: 7  AVG: 1.57142857142857  HC: 77800  Patt: 12345123453  DF: 5  
+nq ig  WN: 2  AVG: 2  HC: 45300  Patt: 1234  DF: 4  
+bl i  r ilbl i  r ig  WN: 7  AVG: 1.71428571428571  HC: 56  Patt: 123432123435  DF: 5  
+x tqt  WN: 2  AVG: 2  HC: 5740  Patt: 1232  DF: 3  
+ijukj  WN: 1  AVG: 5  HC: 10  Patt: 12342  DF: 4  
+a bpu  WN: 2  AVG: 2  HC: 62700  Patt: 1234  DF: 4  
+  reks  WN: 2  AVG: 2  HC: 8800  Patt: 1234  DF: 4  
+mc  el  WN: 2  AVG: 2  HC: 2160000  Patt: 1234  DF: 4  
+m ai m ktp  WN: 4  AVG: 1.75  HC: 2520  Patt: 1231456  DF: 6  
+ecbst  WN: 1  AVG: 5  HC: 9  Patt: 12345  DF: 5  
+m  del  WN: 2  AVG: 2  HC: 5620000  Patt: 1234  DF: 4  
+aokpj  WN: 1  AVG: 5  HC: 83  Patt: 12345  DF: 5  
+atm uap ii  WN: 3  AVG: 2.66666666666667  HC: 971  Patt: 12341566  DF: 6  
+aq kuar kuar kuar km  WN: 5  AVG: 3.2  HC: 43  Patt: 1234153415341536  DF: 6  
+tfkp m  m    m m umi  WN: 6  AVG: 1.83333333333333  HC: 9  Patt: 12345555657  DF: 7  
+ai st  WN: 2  AVG: 2  HC: 1980000  Patt: 1234  DF: 4  
+a  m  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.44444444444444  HC: 3  Patt: 1234545345645345453457  DF: 7  
+erxfw  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+ocatd  WN: 1  AVG: 5  HC: 151  Patt: 12345  DF: 5  
+x  et  WN: 2  AVG: 1.5  HC: 9650000  Patt: 123  DF: 3  
+ee ekt  use  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  eu  WN: 17  AVG: 2.88235294117647  HC: 97  Patt: 1112345112115112115112115112115112115112115112114  DF: 5  
+ o ekl  WN: 3  AVG: 1.33333333333333  HC: 25900  Patt: 1234  DF: 4  
+aleei  WN: 1  AVG: 5  HC: 343  Patt: 12334  DF: 4  
+x  it  WN: 2  AVG: 1.5  HC: 10100000  Patt: 123  DF: 3  
+ee ps r ig  WN: 4  AVG: 1.75  HC: 54900  Patt: 1123456  DF: 6  
+   lt  WN: 2  AVG: 1  HC: 7220000  Patt: 12  DF: 2  
+x  et  WN: 2  AVG: 1.5  HC: 9650000  Patt: 123  DF: 3  
+rnumi  WN: 1  AVG: 5  HC: 8  Patt: 12345  DF: 5  
+ilei  r ig  WN: 3  AVG: 2.33333333333333  HC: 284  Patt: 1231415  DF: 5  
+aokpj  WN: 1  AVG: 5  HC: 83  Patt: 12345  DF: 5  
+ee ekt  use  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  ese  eke  eu  WN: 17  AVG: 2.88235294117647  HC: 97  Patt: 1112345112115112115112115112115112115112115112114  DF: 5  
+a r  y  WN: 3  AVG: 1  HC: 3410000  Patt: 123  DF: 3  
+ c  el  WN: 3  AVG: 1  HC: 6530000  Patt: 123  DF: 3  
+t tl m  m    m m umi  WN: 7  AVG: 1.42857142857143  HC: 1860  Patt: 1123333435  DF: 5  
+tsuwj  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+ebkey  WN: 1  AVG: 5  HC: 71  Patt: 12314  DF: 4  
+ocaud  WN: 1  AVG: 5  HC: 36  Patt: 12345  DF: 5  
+duvi    ld  WN: 2  AVG: 3  HC: 123  Patt: 123451  DF: 5  
+  bet   etl bet   et  bet   etl bet   et  WN: 9  AVG: 2.44444444444444  HC: 739  Patt: 1232341232312323412323  DF: 4  
+ c ehx  bt  WN: 4  AVG: 1.5  HC: 1930  Patt: 123456  DF: 6  
+estlv  WN: 1  AVG: 5  HC: 22  Patt: 12345  DF: 5  
+x  cu  WN: 2  AVG: 1.5  HC: 1470000  Patt: 123  DF: 3  
+brsgw  WN: 1  AVG: 5  HC: 11  Patt: 12345  DF: 5  
+ c  ev c  el  WN: 5  AVG: 1.2  HC: 394000  Patt: 123124  DF: 4  
+  tet  WN: 2  AVG: 1.5  HC: 484000  Patt: 121  DF: 2  
+xbyqt  WN: 1  AVG: 5  HC: 8  Patt: 12345  DF: 5  
+tekp mr m    m m umi  WN: 6  AVG: 2  HC: 1  Patt: 123456555758  DF: 8  
+hqj    t    tp    p  r    ftp   tp   tpu  WN: 8  AVG: 2  HC: 18  Patt: 1234455674545458  DF: 8  
+ h q  h ut h u  h uh  WN: 9  AVG: 1.11111111111111  HC: 36000  Patt: 1213413131  DF: 4  
+t tl m  m    m m umut tl m  m    m m umi  WN: 13  AVG: 1.53846153846154  HC: 1  Patt: 11233334341123333435  DF: 5  
+xnhvm  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+xpse xpset  WN: 2  AVG: 4.5  HC: 27  Patt: 123412345  DF: 5  
+ pedop  WN: 2  AVG: 2.5  HC: 580  Patt: 12341  DF: 4  
+a  m  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.44444444444444  HC: 3  Patt: 1234545345645345453457  DF: 7  
+hhqwf  WN: 1  AVG: 5  HC: 1  Patt: 11234  DF: 4  
+a  m  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.44444444444444  HC: 3  Patt: 1234545345645345453457  DF: 7  
+m  e m  m    m m umtm  e m  m    m m umi  WN: 13  AVG: 1.38461538461538  HC: 1  Patt: 121111314121111315  DF: 5  
+brlqhn  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+aoukj  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+ebogu  WN: 1  AVG: 5  HC: 516  Patt: 12345  DF: 5  
+objpmc  WN: 1  AVG: 6  HC: 1  Patt: 123456  DF: 6  
+m u  m  m    m m umtm u  m  m    m m umi  WN: 13  AVG: 1.38461538461538  HC: 1  Patt: 121111213121111214  DF: 4  
+t bki  WN: 2  AVG: 2  HC: 8820  Patt: 1234  DF: 4  
+xlmpc  WN: 1  AVG: 5  HC: 6  Patt: 12345  DF: 5  
+of emc  WN: 2  AVG: 2.5  HC: 1450000  Patt: 12345  DF: 5  
+e  lte tlv  WN: 3  AVG: 2.33333333333333  HC: 418  Patt: 1231324  DF: 4  
+x   tx  ewx  etx  et  WN: 5  AVG: 2.2  HC: 181  Patt: 12134132132  DF: 4  
+   et c et c et c et c et c et c et c et   et c et c et c et c et c et c et c et  WN: 31  AVG: 1.48387096774194  HC: 6510000  Patt: 1231231231231231231231212312312312312312312312  DF: 3  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+brmgj  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+estlv  WN: 1  AVG: 5  HC: 22  Patt: 12345  DF: 5  
+  je   t    tp    p  r    ftp   tp   tpt rj    t    tp    p  r    ftp   tp   tpu  WN: 17  AVG: 1.76470588235294  HC: 15  Patt: 123344563434343513344563434347  DF: 7  
+mnapp  WN: 1  AVG: 5  HC: 73  Patt: 12344  DF: 4  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+tsuwj  WN: 1  AVG: 5  HC: 1  Patt: 12345  DF: 5  
+a tm  ftp   tp  ftpw  tp  ftp   tp  ftpu  WN: 9  AVG: 2.55555555555556  HC: 2  Patt: 12342525425625425254257  DF: 7  
+aqbpu  WN: 1  AVG: 5  HC: 2  Patt: 12345  DF: 5  
+ahtft  WN: 1  AVG: 5  HC: 4  Patt: 12343  DF: 4  
+m  t m  m    m m umcm w  m  m    m m umi  WN: 13  AVG: 1.38461538461538  HC: 1  Patt: 121111314151111316  DF: 6  
+xhqef  WN: 1  AVG: 5  HC: 3  Patt: 12345  DF: 5  
+m u  ml m    m m umtm u  m  m    m m umi  WN: 13  AVG: 1.46153846153846  HC: 1  Patt: 1213111214121111215  DF: 5  
+bo fib  eibl eib  eibl eib  eibl eib  ejbl eib  eibl eib  eibl eib  eibl eib  ejbl eib  eibl eib  eibl eib  eibl eib  ejbl eib  eibl eib  eibl eib  eibl eib  et  WN: 33  AVG: 3.39393939393939  HC: 1  Patt: 1234154165415416541541654157165415416541541654154165415716541541654154165415416541571654154165415416541541654158  DF: 8  
+a uk i ukti ukti ukj  WN: 6  AVG: 2.5  HC: 3  Patt: 123423542354236  DF: 6  
