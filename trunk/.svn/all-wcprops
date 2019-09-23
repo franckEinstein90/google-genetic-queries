@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/10/trunk
+END
+clearScreen.bat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/clearScreen.bat
+END
+NeuronFacFile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/NeuronFacFile.pm
+END
+mathmemory.pl
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/mathmemory.pl
+END
+qestions.dat
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/9/trunk/qestions.dat
+END
+question.pm
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/9/trunk/question.pm
+END
+IndividualsSet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/9/trunk/IndividualsSet.pm
+END
+population.pm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/9/trunk/population.pm
+END
